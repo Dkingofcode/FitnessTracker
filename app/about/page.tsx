@@ -170,7 +170,7 @@ export default function AboutPage() {
             >
               <div className="relative w-full h-96 bg-gradient-to-br from-blue-500 to-purple-600 rounded-3xl overflow-hidden">
                 <img
-                  src="/placeholder.svg?height=400&width=600"
+                  src="/alexander-red-d3bYmnZ0ank-unsplash.jpg"
                   alt="Team working"
                   className="w-full h-full object-cover opacity-80"
                 />

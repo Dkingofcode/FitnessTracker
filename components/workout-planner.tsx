@@ -12,7 +12,7 @@ const workouts = [
     duration: "20 min",
     calories: "300-400",
     difficulty: "Intermediate",
-    image: "/placeholder.svg?height=200&width=300",
+    image: "/anastase-maragos-FP7cfYPPUKM-unsplash.jpg",
     tags: ["Cardio", "Fat Burn", "No Equipment"],
   },
   {
@@ -20,7 +20,7 @@ const workouts = [
     duration: "45 min",
     calories: "250-350",
     difficulty: "Advanced",
-    image: "/placeholder.svg?height=200&width=300",
+    image: "/daniel-apodaca-WdoQio6HPVA-unsplash.jpg",
     tags: ["Strength", "Muscle Building", "Weights"],
   },
   {
@@ -28,7 +28,7 @@ const workouts = [
     duration: "30 min",
     calories: "150-200",
     difficulty: "Beginner",
-    image: "/placeholder.svg?height=200&width=300",
+    image: "/steven-erixon-FxlYmu_To7o-unsplash.jpg",
     tags: ["Flexibility", "Mindfulness", "Recovery"],
   },
 ]
