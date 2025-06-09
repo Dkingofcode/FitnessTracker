@@ -1,36 +1,38 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🏋️‍♂️ FitTrack — Your Ultimate Fitness Tracker Landing Page
 
-## Getting Started
+![FitTrack Preview](./preview.png)
 
-First, run the development server:
+FitTrack is a modern, responsive fitness landing page built using **React**, **Tailwind CSS**, **Framer Motion**, and **React Router**. It features smooth animated page transitions and a toggle for dark/light mode, offering users a sleek and interactive experience.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+---
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 🚀 Features
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+- ⚛️ **Single Page App with Routing** (React Router)
+- 🎨 **Dark Mode Toggle** (Tailwind CSS)
+- 🎬 **Animated Page Transitions** (Framer Motion)
+- 💻 **Responsive Design** (Mobile-first layout)
+- 📦 **Clean Codebase** (Modular structure for easy scalability)
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+---
 
-## Learn More
+## 🖼️ Preview
 
-To learn more about Next.js, take a look at the following resources:
+https://your-deploy-link.com  
+> *(replace with actual deployment link when available)*
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+---
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## 🎥 Video Walkthrough
 
-## Deploy on Vercel
+<video controls width="100%">
+  <source src="/FitTracker - Transform Your Fitness Journey - Google Chrome 2025-06-09 04-46-50.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+> Video walkthrough of the FitTrack landing page showing animated transitions and dark mode toggle.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+---
+
+## 📁 Folder Structure
+
