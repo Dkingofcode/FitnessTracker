@@ -19,7 +19,7 @@ FitTrack is a modern, responsive fitness landing page built using **React**, **T
 ## 🖼️ Preview
 
 https://your-deploy-link.com  
-> *(replace with actual deployment link when available)*
+> https://fitness-tracker-taupe-ten.vercel.app/
 
 ---
 
